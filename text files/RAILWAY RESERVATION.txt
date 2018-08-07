@@ -1,0 +1,14 @@
+********************WELCOME TO SOUTHERN RAILWAYS********************** 
+Here the available trains are
+*Uzhavan Express
+    train number 121
+	
+	coach     S1  S2 
+	available
+	seats     3   3	  
+*Pandiyan Express
+train number 212
+     coach    S1  S2  
+	available
+	seats     3   3	   
+	
